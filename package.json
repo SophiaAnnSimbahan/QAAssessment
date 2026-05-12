@@ -1,0 +1,22 @@
+{
+  "name": "qaassessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SophiaAnnSimbahan/QAAssessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SophiaAnnSimbahan/QAAssessment/issues"
+  },
+  "homepage": "https://github.com/SophiaAnnSimbahan/QAAssessment#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.7.0"
+  }
+}
