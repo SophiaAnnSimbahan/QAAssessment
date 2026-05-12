@@ -31,3 +31,17 @@ Result:
 Successful checkout flow confirmed
 All assertions passed
 No test failures detected
+
+API Testing - Part 2
+
+Endpoints Tested:
+-GET /users
+-GET /users/1
+-POST /posts
+-PUT /posts/1
+
+Coverage:
+-Request and response validation
+-Positive test cases
+-Negative/edge cases
+-Response analysis
